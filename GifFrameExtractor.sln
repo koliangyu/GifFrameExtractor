@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GifFrameExtractor", "GifFrameExtractor\GifFrameExtractor.csproj", "{891B5BB9-71C2-47A8-BE1D-0C4EF656EB4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{891B5BB9-71C2-47A8-BE1D-0C4EF656EB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891B5BB9-71C2-47A8-BE1D-0C4EF656EB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891B5BB9-71C2-47A8-BE1D-0C4EF656EB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891B5BB9-71C2-47A8-BE1D-0C4EF656EB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD7EE3D1-90BF-4727-AE06-AC03B17C873E}
+	EndGlobalSection
+EndGlobal
